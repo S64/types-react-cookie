@@ -1,6 +1,6 @@
 {
   "name": "@types/react-cookie",
-  "version": "0.0.1-SNAPSHOT",
+  "version": "2.1.2-1",
   "main": "index.d.ts",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/S64/types-react-cookie#readme",
   "devDependencies": {
-    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#ba714f7",
+    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#v2.1.2-1",
     "react": "^16.2.0",
     "react-cookie": "^2.1.2",
     "universal-cookie": "^2.1.2"
