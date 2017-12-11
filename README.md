@@ -40,8 +40,11 @@ export default withCookies(App);
 ```
 
 ```typescript
+import * as universalCookieMiddleware from 'universal-cookie-express';
 import { UniversalCookieRequest } from 'universal-cookie-express';
 import { CookiesProvider } from 'react-cookie';
+
+app.use(universalCookieMiddleware())
 
 app.use((req: Request & UniversalCookieRequest, res: Response) => {
   const markup = ReactDOMServer.renderToString(
