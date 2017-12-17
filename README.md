@@ -12,9 +12,9 @@ TypeScript definitions for [react-cookie](https://github.com/reactivestack/cooki
     "react-cookie": "^2.1.2"
   },
   "devDependencies": {
-    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#v2.1.2-1",
-    "@types/universal-cookie-express": "git+ssh://git@github.com:S64/types-universal-cookie-express.git#v2.1.2-1",
-    "@types/react-cookie": "git+ssh://git@github.com:S64/types-react-cookie.git#v2.1.2-1"
+    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#v2.1.2-2",
+    "@types/universal-cookie-express": "git+ssh://git@github.com:S64/types-universal-cookie-express.git#v2.1.2-2",
+    "@types/react-cookie": "git+ssh://git@github.com:S64/types-react-cookie.git#v2.1.2-2"
   }
 }
 ```
