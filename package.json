@@ -12,7 +12,7 @@
   },
   "homepage": "https://github.com/S64/types-react-cookie#readme",
   "devDependencies": {
-    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#v2.1.2-1",
+    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#v2.1.2-2",
     "react": "^16.2.0",
     "react-cookie": "^2.1.2",
     "universal-cookie": "^2.1.2"
